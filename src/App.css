@@ -1,0 +1,15 @@
+*{
+    overflow-x: hidden;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+.link{
+    text-decoration: none;
+}
+h2{
+    overflow-y: hidden;
+}
+h1{
+    overflow-y: hidden;
+}
